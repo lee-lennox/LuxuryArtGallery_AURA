@@ -1,116 +1,114 @@
-AURA — Cinematic Luxury Art Gallery Experience
+# 🎨 AURA — Cinematic Luxury Art Gallery Experience
 
-AURA is a high-end cinematic digital art gallery experience built with modern web technologies and immersive 3D interactions.
-The website blends luxury aesthetics, atmospheric storytelling, smooth animations, and interactive visual effects to create a futuristic online art exhibition.
+AURA is a cinematic luxury art gallery website built with modern web technologies, immersive animations, and interactive 3D experiences.
 
-Inspired by modern museums, luxury fashion campaigns, and immersive digital installations, AURA delivers an unforgettable artistic experience.
+The project combines:
+- cinematic storytelling
+- luxury visual design
+- immersive gallery interactions
+- atmospheric effects
+- smooth animations
+- artistic presentation layouts
 
-🌐 Live Website
+Inspired by futuristic museums, fashion campaigns, and digital exhibitions, AURA creates a premium online art experience that feels emotional, elegant, and unforgettable.
 
-AURA Live Experience
+---
 
-✨ Experience Highlights
-Cinematic luxury UI/UX
-Immersive 3D gallery interactions
-Floating atmospheric smoke effects
-Interactive artwork presentations
-Luxury glassmorphism design system
-Smooth scroll and motion animations
-WhatsApp booking integration
-Responsive premium experience
-Cinematic lighting and depth effects
-Social media integration
-🎨 Design Direction
+# 🌐 Live Demo
 
-The experience is designed to feel like:
+🔗 https://fanciful-crostata-34c1b6.netlify.app/
 
-A futuristic luxury museum
-A cinematic digital exhibition
-A premium fashion-art campaign
-An immersive visual story
+---
 
-The website focuses heavily on:
+# ✨ Features
 
-atmosphere
-emotional immersion
-visual storytelling
-cinematic transitions
-elegant minimalism
-🖼 Featured Artist
-ALANE KHOZA
+## 🎬 Cinematic Experience
+- Luxury fullscreen hero section
+- Cinematic transitions and animations
+- Atmospheric smoke cursor effects
+- Film grain overlays
+- Ambient lighting and glow effects
 
-The platform showcases immersive contemporary artwork with cinematic presentation layouts and animated gallery experiences.
+## 🖼 Immersive Gallery
+- 3D artwork presentations
+- Floating artwork animations
+- Interactive gallery tunnel
+- Smooth parallax scrolling
+- Mouse-reactive motion effects
 
-🌌 Key Features
-Cinematic Hero Section
-Floating 3D framed artwork
-Ambient lighting
-Cinematic smoke cursor effects
-Luxury typography animations
-Smooth parallax motion
-3D Artwork Tunnel
-Immersive rotating gallery
-Floating artworks in depth space
-Atmospheric lighting and shadows
-Mouse-reactive movement
-Artistic Atmosphere
-Soft cinematic smoke trails
-Floating particles and dust
-Film grain overlays
-Glow and blur effects
-Luxury Pricing Experience
+## 🎨 Artistic Design
+- Luxury typography
+- Glassmorphism UI
+- Premium dark aesthetic
+- Gold accent highlights
+- Modern editorial layouts
 
-Artwork sizes and pricing displayed in a premium floating showcase format.
+## 📱 Responsive Experience
+- Mobile responsive
+- Tablet optimized
+- Desktop cinematic layouts
+- Smooth performance animations
 
-Includes direct WhatsApp booking integration.
+## 💬 WhatsApp Booking
+Direct WhatsApp integration for:
+- artwork inquiries
+- bookings
+- pricing requests
+- customer communication
 
-💰 Artwork Pricing
-Size	Dimensions	Price
-A0	840×1190mm	R3,500
-A1	600×900mm	R2,000
-A2	400×600mm	R1,500
-A3	300×400mm	R600
-A4	200×300mm	R450
-A5	150×200mm	R250
-📱 Social & Contact
-WhatsApp
+---
 
-079 273 2401
+# 🖌 Featured Artist
 
-Instagram
+## ALANE KHOZA
 
-@kunningarts
+AURA showcases immersive contemporary artwork with cinematic visual presentation and luxury exhibition styling.
 
-TikTok
+---
 
-@kunning.art
+# 💰 Artwork Pricing
 
-🎬 Technologies Used
-React 18
-TypeScript
-Vite
-Tailwind CSS
-Framer Motion
-Three.js
-React Three Fiber
-Lucide React
-🎨 Color System
-Primary Colors
-Deep Cinema Black — #030303
-Rich Charcoal — #0D0D10
-Warm Ivory — #F4EEE6
-Luxury Gold — #D6B47C
-Deep Bronze — #8A6742
-🚀 Running the Project
-Install Dependencies
-npm install
-Start Development Server
-npm run dev
-Build for Production
-npm run build
-Preview Production Build
-npm run preview
-📂 Project Structure
+| Artwork Size | Dimensions | Price |
+|--------------|------------|--------|
+| A0 | 840×1190mm | R3,500 |
+| A1 | 600×900mm | R2,000 |
+| A2 | 400×600mm | R1,500 |
+| A3 | 300×400mm | R600 |
+| A4 | 200×300mm | R450 |
+| A5 | 150×200mm | R250 |
+
+---
+
+# 🎨 Design System
+
+## Primary Colors
+
+| Color | Hex |
+|------|------|
+| Deep Cinema Black | `#030303` |
+| Rich Charcoal | `#0D0D10` |
+| Warm Ivory | `#F4EEE6` |
+| Luxury Gold | `#D6B47C` |
+| Deep Bronze | `#8A6742` |
+
+---
+
+# ⚡ Technologies Used
+
+- React 18
+- TypeScript
+- Vite
+- Tailwind CSS
+- Framer Motion
+- Three.js
+- React Three Fiber
+- Lucide React
+
+---
+
+# 📂 Project Structure
+
+```bash
 src/
 ├── app/
 │   ├── components/
@@ -127,12 +125,3 @@ src/
 ├── styles/
 │   └── theme.css
 └── ...
-🌟 Final Vision
-
-AURA is more than a gallery website.
-
-It is designed to feel like:
-
-“A cinematic journey through art, emotion, atmosphere, and luxury.”
-
-The experience combines immersive technology with artistic storytelling to create a modern digital exhibition unlike traditional portfolio websites.
